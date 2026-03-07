@@ -1,5 +1,5 @@
 package com.company;
-public class literals {
+public class literal {
     public static void main(String[]args){
         int age = 22;
         byte age2 = 23;
