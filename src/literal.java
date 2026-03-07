@@ -1,6 +1,6 @@
 package com.company;
 public class literal {
-    public static void main(String[] args){
+    public static void main(String[]args){
         int age = 22;
         byte age2 = 23;
         long ageDino = 244444444444444L;
